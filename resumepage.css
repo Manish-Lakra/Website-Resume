@@ -1,0 +1,36 @@
+*{
+    margin-left: 10px;
+    background-color: #858282;
+}
+
+#TopOFPage{
+    font-size: 50px;
+    margin-left: 20px;
+}
+
+#address{
+    font-size: 20px;
+    margin-left: 40px;
+    padding: 0px; 
+}
+
+#commonpara{
+    margin-left: 20px;
+}
+
+#phn{
+    font-size: 20px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+#introlist {
+    color: red;
+}
+#circle{
+    color: red;
+}
+
+.fa-home {
+    color: red;
+    margin-left: 10px;

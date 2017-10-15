@@ -1,0 +1,88 @@
+html { 
+	background: url(../onlineresume/background.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+  }
+
+  .white{
+	background-color: rgba(0, 0, 0, 0.2);
+	  color: white;
+	  height:  950px;
+	  width: 600px;
+	  margin: 0 auto;
+	  padding: 30px;
+  }
+
+h1 {
+	color: red;
+	font-family: cursive;
+	padding-left: 125px;
+	margin-left: 125px;
+	
+	font-size: 80px;
+		
+}
+
+
+
+.profilepic{
+	height: 350px;
+
+	margin-left: 140px;
+	border-radius: 50%;
+
+}
+
+#navigatebtn{
+
+}
+
+.aboutbtn{
+	font-size: 15px;
+	display: inline;
+	margin-left: 40px;
+	margin-inline-end: 230px;
+	border-radius: 4px;
+	padding: 2px 20px;
+	
+}
+
+.resumebtn{
+	font-size: 15px;
+	display: block;
+	margin-left: 40px;
+	margin-inline-end: 230px;
+	border-radius: 4px;
+	padding: 2px 20px;
+	
+}
+
+.contactbtn{
+	font-size: 15px;
+	color: red;
+	
+	display: block;
+	margin-left: 40px;
+	margin-inline-end: 230px;
+	border-radius: 4px;
+	padding: 2px 20px;
+	
+}
+
+#btn:hover {
+	color: red;
+	border: 2px solid red;
+
+}
+
+.buttongrp {
+	
+
+}
+
+.social_link{
+	color: red;
+	padding: 5px; 
+}
